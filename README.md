@@ -1,4 +1,6 @@
-<img src="./banner.png" width="900">
+<p align="center">
+  <img src="./897736DA-3433-434F-B402-ADE9B7DD08D0.png" width="900">
+</p>
 # AIで遊ぶ水平思考クイズ
 
 > **AIと遊ぶ、新しい水平思考クイズ体験。**
