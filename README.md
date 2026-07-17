@@ -1,7 +1,3 @@
-不具合発生中につき、修正してます。
-
-
-
 <p align="center">
   <img src="./897736DA-3433-434F-B402-ADE9B7DD08D0.png" width="900">
 </p>
